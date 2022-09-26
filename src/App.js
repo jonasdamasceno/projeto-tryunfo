@@ -139,7 +139,7 @@ class App extends React.Component {
       cardTrunfo,
       isSaveButtonDisabled,
       hasTrunfo,
-      // cardList,
+      cardList,
     } = this.state;
     return (
       <div>
